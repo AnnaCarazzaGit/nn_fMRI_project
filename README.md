@@ -5,7 +5,6 @@ activation patterns. The work compares direct fine-grained classification
 with hierarchical approaches that incorporate true or predicted semantic
 superclasses.
 
-![Project demo](assets/demo_preview.jpg)
 
 <p align="center">
   <img src="./assets/embedding_space.jpg" width="32%" />
