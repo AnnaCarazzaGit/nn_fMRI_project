@@ -7,8 +7,6 @@ superclasses.
 
 🏆 **Winner of the Neuroengineering course project competition** (Politecnico di Milano) — best-performing project among 5 groups working on Neural Decoding.
 
-![Project demo](assets/demo_preview.jpg)
-
 <p align="center">
   <img src="./assets/embedding_space.jpg" width="32%" />
   <img src="./assets/confusion_matrix.jpg" width="32%" />
