@@ -7,6 +7,23 @@ superclasses.
 
 ![Project demo](assets/demo_preview.jpg)
 
+<p align="center">
+  <img src="./assets/embedding_space.jpg" width="32%" />
+  <img src="./assets/confusion_matrix.jpg" width="32%" />
+  <img src="./assets/prediction_example.jpg" width="32%" />
+</p>
+<p align="center">
+  <sub>Left to right: superclass centroids in embedding space, confusion matrix on the test set, example of a hierarchical prediction (direct vs. true-super vs. predicted-super).</sub>
+</p>
+
+<p align="center">
+  <img src="./assets/brain_roi_anatomy.jpg" width="48%" />
+  <img src="./assets/gradient_explainability.jpg" width="48%" />
+</p>
+<p align="center">
+  <sub>Left to right: anatomical ROI mapping on the brain surface, gradient-based explainability overlaid on the anatomical scan.</sub>
+</p>
+
 ## Overview
 
 The project analyses ROI-structured fMRI activation patterns and includes:
